@@ -1,48 +1,50 @@
-# Intro
-<h1 align="center" color="#8700ff">Hello There 
-</h1>
+<h1 align="center">Hi 👋, I'm Dhruv Srivastava</h1>
+<h3 align="center">A passionate Frontend and Blockchain developer</h3>
 
-[![Hi](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&duration=3000&color=8700FF&background=F8FF0000&vCenter=true&multiline=true&width=500&height=200&lines=-%3E+Hi+I+am+Dhruv;-%3E+I+am+20+years+old;-%3E+I+am+not+so+much+of+a+developer;-%3E+Just+Exploring+here)](https://github.com/Dhruv-3241)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv-3241&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-3241" /> </p>
 
-<h1 align="center" color="#8700ff">Description Badges
-</h1>
-<h3 align="center">A Cool Collection of Badges describing me</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv-3241" alt="dhruv-3241" /></a> </p>
 
-![Name](https://img.shields.io/badge/Name-Dhruv-8700ff.svg)
-![Age](https://img.shields.io/badge/Age-20-8700ff.svg)
-![Fav Font](https://img.shields.io/badge/Font-Cascadia_Code-8700ff.svg)
-![CSE](https://img.shields.io/badge/Studying-CSE-8700ff.svg)
-![](https://komarev.com/ghpvc/?username=Dhruv-3241&style=for-the-badge&label=PROFILE+VIEWS)
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h1 align="center" color="#8700ff">Trophies
-</h1>
-<h3 align="center">A Cool Collection of Trophies</h3>
+- 🔭 I’m currently working on **BERN Application**
 
-[![Dhruv's Trophies](https://github-profile-trophy.vercel.app/?username=Dhruv-3241)](https://github.com/ryo-ma/github-profile-trophy)
+- 🌱 I’m currently learning **NodeJS, Solidity**
 
-<h1 align="center" color="#8700ff">Socials & Skills
-</h1>
+- 👨‍💻 All of my projects are available at [https://portfolio-plum-seven-95.vercel.app/](https://portfolio-plum-seven-95.vercel.app/)
 
-### Skills And Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![ReactJS](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=reactjs&logoColor=white)
-	      
-### Socials
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/dhruv_2134)
-[![Discord](https://img.shields.io/badge/DhrUV_4831-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/715755977483223081)
-  
-<h1 align="center" color="#8700ff">My Stats
-</h1>
+- 💬 Ask me about **React, MongoDB**
 
-![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruv-3241&count_private=true&show_icons=true&theme=synthwave)
+- 📫 How to reach me **dhruv.25977@gmail.com**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-3241&langs_count=10&layout=compact)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dhruv-srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv-srivastava" height="30" width="40" /></a>
+<a href="https://discord.gg/dhruv4831" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dhruv4831" height="30" width="40" /></a>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Dhruv-3241&theme=dark&hide_border=true&mode=weekly&background=-45%2C000000%2C515151)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+	<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
+	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+	<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+	<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+	<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+	<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+	<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+	<a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dhruv-3241&theme=vue&utcOffset=8)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv-3241&show_icons=true&locale=en&layout=compact" alt="dhruv-3241" /></p>
